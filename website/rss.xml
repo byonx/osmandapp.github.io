@@ -1,0 +1,186 @@
+<rss version="2.0">
+<channel>
+<title>OsmAnd blog</title>
+<link>http://osmand.net/blog</link>
+<description/>
+<generator></generator>
+<item>
+<title>OsmAnd 2.3</title>
+<link>http://osmand.net/blog?id=osmand-2-3-released</link>
+<description>
+<p>OsmAnd 2.3 is on its way! Get ready for a brand new route preparation interface, improved UI, and more. We also added a revolutionary feature for you to try.</p>
+<h2>OSM Live Beta</h2>
+<p>The most important and outstanding feature of the new release is OSM Live. It's the system that will encourage OSM mappers to update the information and will give you frequent updates (up to once an hour). You make a donation and receive the updates, 30% goes to the OsmAnd team and 70% is spread between OSM contributors who have registered in the OSM Live program. They are encouraged to make more updates and you get fresh and more detailed maps. Please read more and join here.</p>
+<img src="images/blog/2.3/ver_2_3_9.jpg"/>
+<img src="images/blog/2.3/ver_2_3_10.jpg"/>
+<h2>New map markers interface</h2>
+<p>Map markers are points you can add to the route or leave for future trips. Add them to the map to use for route preparation or save for future.</p>
+<img src="images/blog/2.3/ver_2_3_11"/>
+<img src="images/blog/2.3/ver_2_3_12"/>
+<h2>General improvements</h2>
+<p>Now, you'll see the address when you tap a location on the map. This makes map use even smoother. Besides that, text rendering throughout the application has become better.</p>
+</description>
+</item>
+<item>
+<title>OsmAnd 2.2</title>
+<link>http://osmand.net/blog?id=osmand-2-2-released</link>
+<description>
+<p>New OsmAnd 2.2 has been released. Fuller POI information, restructured downloads and a brand-new UI are some of the main things to see. Get the update now!</p>
+<h2>Reworked context-sensitive UI</h2>
+<p>OsmAnd has acquired a whole new context menu design that changes according to the content and the type of location you're working with. Now POI, Favorites and other types of locations get corresponding context menus to help you operate the app much easier. Also, you can now just tap on a region you need to download the map. This way, you'll get the map sections that you need much faster. More to come, you can enjoy amazing pull-up menus and a whole new Create POI interface.</p>
+<img src="images/blog/2.2/ver_2_2_9.jpg"/>
+<img src="images/blog/2.2/ver_2_2_17.jpg"/>
+<h2>New Wikipedia data, downloads by country and much more complete data</h2>
+<p>Now you can enter the name of the country and see all maps available for this particular location: the Standard map, Hillshade, Wikipedia data, Contour lines map and Roads-only map. This way, you'll see Wikipedia files as soon as you enter the country name. Besides that, the Wikipedia data has gotten fuller.</p>
+<img src="images/blog/2.2/ver_2_2_2.jpg"/>
+<img src="images/blog/2.2/ver_2_2_3.jpg"/>
+<h2>New navigation interface</h2>
+<p>You can build a route with all your waypoints or select to go right to the destination point. To do it, just tap the destination, and then press the blue navigation button.</p>
+<img src="images/blog/2.2/ver_2_2_10.jpg"/>
+<img src="images/blog/2.2/ver_2_2_18.jpg"/>
+<h2>Reworked POI editing menu</h2>
+<p>See new improvements in the POI editing section. You can now edit the points of interest you've created before committing them to the server. Also, the whole new Edit POI menu interface will help you add new points rapidly and manage them. Just don't forget to turn OSM Editing plugin on.</p>
+<img src="images/blog/2.2/ver_2_2_8.jpg"/>
+<img src="images/blog/2.2/ver_2_2_14.jpg"/>
+</description>
+</item>
+<item>
+<title>OsmAnd 1.2.2 for iOS is now released</title>
+<link>http://osmand.net/blog?id=osmand-ios-1.2.2-released</link>
+<description>
+<p>The new OsmAnd release has a list of new features that are waiting to be tried out. You can now use shading on the map to see the relief, plan trips and search for points of interest in a handy way. Let's get to details.</p>
+<h2>POI on the map</h2>
+<p>One of the significant steps forward is the ability to view POI on the map. From now on, you'll be able to view any points of interest as you enter the Search.</p>
+<img src="images/blog/ios-1.2.2/ios_2_1_1_3.jpg"/>
+<h2>Hillshade maps</h2>
+<p>The OsmAnd iOS version now has the hillshade maps. Those are map layers visualizing the details of the terrain. The hillshade maps are available by country.</p>
+<img src="images/blog/ios-1.2.2/ios_2_1_1_17.jpg"/>
+<h2>Creating new trip</h2>
+<p>You can now just enter the My trips menu, choose Create new trip and then add waypoints by making long taps. Add details to the waypoint, such as its name, color indicating this waypoint, its group (you can create a group of waypoints: work locations, favorite spots on town, etc.) and a description.</p>
+<img src="images/blog/ios-1.2.2/ios_2_1_1_7.jpg"/>
+<img src="images/blog/ios-1.2.2/ios_2_1_1_8.jpg"/>
+<h2>Route preparation and viewing your trip</h2>
+<p>You can choose to sort your waypoints using the route management menu. Just tap the blue toolbar, then swipe the waypoint you'd like to move higher on the list and tap the arrow icon. Activate or deativate waypoints to customize your route in this menu. Also, now you can add an endless number of waypoints.</p>
+<h2>Navigation</h2>
+<p>Now you can view waypoints or delete them by tapping on the upper toolbar and swiping to the left. Tap the arrow to unfold the full list and choose the point you need to get to in order to see the distance to it and view the location on map. Please note that the points are connected by straight lines and are meant to help you create a general understanding of the directions for your trip.  To mark it as visited, select the checkbox sign. Same checkboxes will be available as soon as you approach the waypoints.</p>
+<img src="images/blog/ios-1.2.2/ios_2_1_1_13.jpg"/>
+<h2>Improvement in POI search</h2>
+<p>As you search for the points of interests, your previous destinations will be added to make searching even easier. The same applies to the favorites.</p>
+<p>The new version also has lots of small improvements to make the user experience better. Go ahead and try out OsmAnd 1.2.2. <a href="https://itunes.apple.com/us/app/osmand-maps/id934850257?mt=8">Install!</a></p>
+</description>
+</item>
+
+<item>
+<title>OsmAnd 1.1.1. for iOS released</title>
+<link>http://osmand.net/blog?id=osmand-ios-1.1.1-released</link>
+<description>
+<p>A new OsmAnd version for iOS is here! The update includes a convenient plugin, more improvements in the POI area and a nicer UI.</p>
+<h2>Offline Contour Lines Maps</h2>
+<p>This plugin, being much appreciated by Android users, is now available in the iOS version. It provides you with quite detail info on the terrain of a certain location and the heights. To get the plugin, just go to the in-app purchase area.</p>
+<img class="leftimage" height="400" src="images/blog/ios-1.1.1/ios_1-1_14.png" alt="TODO"/>
+<h2>POI improvements &amp; Wikipedia</h2>
+<p>Now you can get even more detailed info about POI and use Wikipedia articles offline.</p>
+<img src="images/blog/ios-1.1.1/ios_1-1_10.PNG" alt="Download contour lines &amp; wikipedia maps"/>
+<img src="images/blog/ios-1.1.1/ios_1-1_7.PNG" alt="Wikipedia search"/>
+<img src="images/blog/ios-1.1.1/ios_1-1_9.PNG" alt="Wikipedia article"/>
+<h2>New trip recording features and UI advancements</h2>
+<img class="leftimage" height="400" src="images/blog/ios-1.1.1/ios_1-1_5.PNG" alt="Add waypoints to recording track"/>
+<p>You can add new waypoints to the track while recording it or do the same with a new track without recording. Also, you&#39;ll see UI amendments called to make the use of the app better.</p>
+</description>
+</item>
+
+<item>
+<title>5 years with OsmAnd!</title>
+<link>http://osmand.net/blog?id=5_years</link>
+<description>
+<p>5 years with OsmAnd!</p>
+<img src="5years_blog.png" />
+<p>Hard to believe, but it' s been 5 years since OsmAnd app appeared in the market. To recap the highlights of our work so far, we decided to ask OsmAnd team members how do they feel about working here, why they chose to work on a navigation app and more.</p>
+<br/>
+
+<p>Viktor Shcherb, CEO</p>
+<p><b>What does #osmandme mean to you?</b></p>
+<p>First of all, it means the favorite map &amp; navigation tool. All the operations I do myself I do with OsmAnd. Before I had a navigation tool, I used paper maps for the most operations and I still love them. Nowadays, I can' t imagine my normal life without OsmAnd, it covers most of the aspects of outdoor activities: hiking, going to restaurant, tourism, boat trips, forest walks and, of course, car travels. Surprisingly, I read #osmandme as ' OSM and Me' and OsmAnd is a tool to use these features. I need to confess, I have a crazy idea to extend OsmAnd and use all the features that OSM data can provide). By the way, it was a conscious decision to put OSM in the name of the product. I believe in OSM and I would like to thank all OSM contributors.</p>
+<p>Join special giveaways!</p>
+<p>Head over to Facebook to win a unique app build with a feature our developers will introduce specially for you. Just write about your experience of using OsmAnd, tell us why you like the app or share a story about this application, use hashtag #osmandme and #osmandfive to join the giveaway. And don't forget to check out our twitter giveaway, too! Win Osmand+ app today. The celebration won't be the same without you, so join now!</p>
+</description>
+<pubDate>Tue, 26 June 2015</pubDate>
+</item>
+
+<item>
+<title>5 years with OsmAnd!</title>
+<link>http://osmand.net/blog?id=5_years</link>
+<description>
+<p>Hard to believe, but it' s been 5 years since OsmAnd app appeared in the market. Read developers' interviews and join anniversary giveaways!</p>
+</description>
+<pubDate>Tue, 26 June 2015</pubDate>
+</item>
+
+<item>
+	
+<title>OsmAnd 2.1</title>
+<link>http://osmand.net/blog?id=osmand-osmand-2-1-released</link>
+<description>
+<p>OsmAnd 2.1 release is out! This time, we focused on improving POI search and making your trips even more interactive through new Wikipedia data sorted by country.</p>
+</description>
+<pubDate>Tue, 16 June 2015</pubDate>
+</item>
+
+<item>
+<title>OsmAnd 1.0.2 (iOS)</title>
+<link>http://osmand.net/blog?id=osmand-ios-1.0.2</link>
+<description>
+	<p>We are glad to announce that iOS version of OsmAnd is becoming better over time. We put significant efforts and managed to finish lots of useful features in a short period of time. Here is the short list of achievements.</p>
+<ul>
+	<li>We significantly improved the responsiveness of the map interaction.</li>
+	<li>OsmAnd Maps now is also available for iPad.</li>
+	<li>We added translations to Russian, German, Danish, French, Spanish and other languages (thanks to our great community). </li>
+	<li>Parking Position and Trip Recording addons were added to the application. Please feel free to use them without charge</li>
+	<li>In the new version you will be able to search a location by simply put the url or enter the coordinantes in the search text box.</li>
+	<li>And lots of other minor and useful improvements.</li>
+</ul>
+</description>
+<pubDate>Tue, 19 May 2015 18:30:40 +0100</pubDate>
+</item>
+
+
+<item>
+<title>OsmAnd 2.0</title>
+<link>http://osmand.net/blog?id=osmand-2-0-released</link>
+<description>
+<p>We are glad to announce that OsmAnd 2.0 is coming to devices. We expect to finish the rollout on this week. This has been a while we had to admit that OsmAnd didn't follow the guidelines and had an inconsistent UI. This major release we fully focused to put the most trending UI, Material Design, in place. Meanwhile we considered dozens interactive patterns to improve the usability of various features in OsmAnd and came up with a Dashboard screen, which provides a balanced solution between Search &amp; Map display. Please help us by giving your feedback to make the product better.</p>
+</description>
+<pubDate>Tue, 29 Apr 2015 18:30:40 +0100</pubDate>
+</item>
+
+
+<item>
+<title>OsmAnd for iPhone</title>
+<guid isPermaLink="true">http://osmand.net/blog?id=osmand-ios</guid>
+<link>http://osmand.net/blog?id=osmand-ios</link>
+<description>
+<p>We are glad to announce that iPhone version of OsmAnd is released.</p>
+<p>This version contains the most used functionality of Android version together with significantly improved user interface, which we believe is a good combination.</p>
+			
+</description>
+<pubDate>Sun, 19 Apr 2015 12:30:40 +0100</pubDate>
+</item>
+
+
+<item>
+<title>Nautical charts</title>
+<guid isPermaLink="true">http://osmand.net/blog?id=nautical-charts</guid>
+<link>http://osmand.net/blog?id=nautical-charts</link>
+<description>
+<p>OsmAnd 2.0 is coming soon. One of the new features of the version will be Nautical Charts plugin.</p>
+<p>Nautical Chart is a detailed graphical representation of oceans, seas, coastal areas and rivers.</p>
+<p>Nautical Charts are made for people who drive any kind of vehicle on water: from professional sailors to people who rented a boat to make a tour over city canals. The charts can contain various information like sailing routes, navigation lights, dangerous areas, areas where it&apos;s allowed or not allowed to sail or dock, etc.</p>
+<p>All the professional sailors are obliged to have official nautical charts on their ships. These charts are published by authorized agencies and cost quite some money. Agencies are investing a lot in keeping the charts up to date. They release updates for the charts on regular basis, but because of the fact that reviewing the information and processing the updates takes quite some time the nautical charts are never completely up-to-date. </p>
+ <a href="http://osmand.net/blog?id=nautical-charts">Read more</a>
+</description>
+<pubDate>Fri, 20 Mar 2015 18:30:40 +0100</pubDate>
+</item>
+
+</channel>
+</rss>
+

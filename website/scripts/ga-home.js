@@ -11,6 +11,9 @@ $(function() {
 	 $('.screenshots .arrow').on('click', function(){
 	    sendGAEvent('screenshots', this);		
 	 });
+	 $('.screenshots .button').on('click', function(){
+	    sendGAEvent('screenshots', this);		
+	 });
 	 $('.blogitem a').on('click', function(){
 	    sendGAEvent('blogitem', this);		
 	 });
@@ -19,6 +22,10 @@ $(function() {
 	 });
 	 $('.selectbox input').on('click', function(){
 	    sendGAEvent('mapexample', this);		
+	 }); 
+	 
+	 $('a.header_joinus').on('click', function(){
+	    sendGAEvent('joinus', this);		
 	 }); 
 	 
 });

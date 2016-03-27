@@ -1,4 +1,5 @@
 var blogArticles = [
+    {title:'OsmAnd for iPhone is released', url:'blog.html?id=osmand-ios', id:'osmand-ios', gatag:'osmand_ios'},	
     {title:'Nautical charts', url:'blog.html?id=nautical-charts', id:'nautical-charts', gatag:'nautical_charts'},
 	{title:'OsmAnd DVR goes live', url:'blog.html?id=osmand-dvr-goes-live', id:'osmand-dvr-goes-live', gatag:'osmand_dvr_goes_live'},	
 	{title:'OsmAnd 1.9', url:'blog.html?id=osmand-1-9-released', id:'osmand-1-9-released', gatag:'osmand_1_9'},
@@ -56,7 +57,8 @@ var getArticleById = function(articleid){
 var init = function(){
 	container.empty();
 	
-	for (var link of blogArticles){
+	for(var i=0; i < blogArticles.length; ++i){
+		var link = blogArticles[i];	
 		container.append('<li><a data-gatag="' +link.gatag+ '" data-index="' + link.index+ '" href="' + link.url + '">' + link.title + '</a></li>');
 	}
 	
@@ -67,7 +69,7 @@ var init = function(){
 	//hide share buttons
 	$('.share_buttons').css('display', 'none');
 	updateMetaTags(getArticleById(articleid));
-	var url = 'blog_articles' + '\\' + articleid + ".html";
+	var url = 'blog_articles' + '/' + articleid + ".html";
 	$( ".article" ).load(url, function( response, status, xhr) {
 		if ( status != "error" ) {
 			
